@@ -1,5 +1,25 @@
 # Vocab-YOU-lary
 
+
+Overview
+Flow Chart
+
+Login Button
+Create Entry Form
+Navagation Bar
+Logout Button
+Title
+Logo
+Database user storage
+Vocabulary Cards
+Read Cards/math random?
+Update Entries
+Delete Cards
+Filter by Language/Tech
+Styling
+No errors
+
+
 Netlify link:
 https://vocabassessment.netlify.app/
 
