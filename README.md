@@ -2,23 +2,34 @@
 
 
 Overview
-Flow Chart
-
-Login Button
-Create Entry Form
-Navagation Bar
-Logout Button
-Title
-Logo
-Database user storage
-Vocabulary Cards
-Read Cards/math random?
-Update Entries
-Delete Cards
-Filter by Language/Tech
-Styling
-No errors
-
+-1 Flow Chart
+-2 WireFrame
+-3 Login Button
+    -No errors
+-4 Create Entry Form
+    -No errors
+-5 Navagation Bar
+    -No errors
+-12 Logout Button
+    -No errors
+-11 Title
+    -No errors
+-13 Logo
+    -No errors
+-7 Database user storage
+    -No errors
+-5 Vocabulary Card   
+    -No errors
+-6 Read Cards/math random?
+    -No errors
+-9 Update Entries
+    -No errors
+-8 Delete Cards
+    -No errors
+-10 Filter by Language/Tech
+    -No errors
+-14 Styling
+    -No errors
 
 Netlify link:
 https://vocabassessment.netlify.app/
