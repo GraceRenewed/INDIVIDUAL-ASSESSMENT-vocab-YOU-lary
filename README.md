@@ -1,40 +1,40 @@
 # Vocab-YOU-lary
 
 
-Overview
--1 Flow Chart
--2 WireFrame
+## Overview
+-1 Flow Chart    
+-2 WireFrame    
 -3 Login Button
-    -No errors
+    -No errors    
 -4 Create Entry Form
-    -No errors
+    -No errors    
 -5 Navagation Bar
-    -No errors
+    -No errors    
 -12 Logout Button
-    -No errors
--11 Title
-    -No errors
--13 Logo
-    -No errors
+    -No errors    
+-11 Title 
+    -No errors    
+-13 Logo 
+    -No errors    
 -7 Database user storage
-    -No errors
--5 Vocabulary Card   
-    -No errors
--6 Read Cards/math random?
-    -No errors
+    -No errors    
+-5 Vocabulary Card
+    -No errors    
+-6 Read Cards/math random?    
+    -No errors    
 -9 Update Entries
-    -No errors
+    -No errors    
 -8 Delete Cards
-    -No errors
+    -No errors    
 -10 Filter by Language/Tech
-    -No errors
+    -No errors    
 -14 Styling
-    -No errors
+    -No errors    
 
-Netlify link:
+# Netlify link:
 https://vocabassessment.netlify.app/
 
-ERD link:
+# ERD link:
 https://lucid.app/lucidchart/19ac9f9c-5c6c-4c4b-8959-9fddd82869b4/edit?viewport_loc=1172%2C-4671%2C1363%2C1029%2C0_0&invitationId=inv_cbf54547-d0d8-4177-9474-01f7ac323205
 
 [VIEW PROJECT INSTRUCTIONS](./PROJECT_INSTRUCTIONS.MD)
