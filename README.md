@@ -1,5 +1,8 @@
 # Q2 - Individual Assessment: Vocab-YOU-lary
 
+Netlify link:
+https://vocabassessment.netlify.app/
+
 [VIEW PROJECT INSTRUCTIONS](./PROJECT_INSTRUCTIONS.MD)
 
 ## Topics
@@ -12,22 +15,7 @@
     - [Deploying on Netlify](#deploying-on-netlify)
 ___
 
-## Get Started
 
-1. Clone your new repo to your local machine
-
-## Starting the Project
-1. Open the `package.json` file and change the `name` property to the name of your application, and `author` to  your name.
-1. Rename the `.sample.env` file to `.env` file. The final file name should be `.env`
-1. From your command line, be in the root directory and run `npm install` OR `npm i` for short.
-1. To start your application, run `npm start`
-
-### If you see this, you are set to go!
-![lit-screen](https://user-images.githubusercontent.com/29741570/190486162-27e9032d-266f-4962-a85c-fc40c58f33db.png)
-
-**NOTES:** 
-- Changes you make to the project will make the browser reload on save...no more hard refresh unless something goes wrong.
-- You will no longer be using the `hs -o` command. To start your server, you will run `npm start`
 
 ## Other Important Tidbits
 ### Console messages
