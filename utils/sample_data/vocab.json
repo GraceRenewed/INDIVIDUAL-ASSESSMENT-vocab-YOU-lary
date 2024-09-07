@@ -1,0 +1,59 @@
+[
+  {"firebaseKey_id":1,
+  "id":{"firebaseKey":1,
+  "title":"term 1","techLanguage":"Python","definition":"Used as",
+  "time":"28.5.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":2,
+  "id":{"firebaseKey":2,
+  "title":"term 4","techLanguage":"JavaScript","definition":"Keyword",
+  "time":"4.6.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":3,
+  "id":{"firebaseKey":3,
+  "title":"term 4","techLanguage":"JavaScript","definition":"Keyword",
+  "time":"2.9.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":4,
+  "id":{"firebaseKey":4,
+  "title":"term 4","techLanguage":"JavaScript","definition":"Example",
+  "time":"27.4.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":5,
+  "id":{"firebaseKey":5,
+  "title":"term 2","techLanguage":"Python","definition":"Defined as",
+  "time":"7.5.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":6,
+  "id":{"firebaseKey":6,
+  "title":"term 2","techLanguage":"JavaScript","definition":"Keyword",
+  "time":"25.11.2023",
+  "uid":""}
+  },
+  {"firebaseKey_id":7,
+  "id":{"firebaseKey":7,
+  "title":"term 4","techLanguage":"JavaScript","definition":"Example",
+  "time":"13.11.2023",
+  "uid":""}
+  },
+  {"firebaseKey_id":8,
+  "id":{"firebaseKey":8,
+  "title":"term 3","techLanguage":"JavaScript","definition":"Defined as","time":"18.5.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":9,
+  "id":{"firebaseKey":9,
+  "title":"term 1","techLanguage":"Java","definition":"Defined as","time":"16.2.2024",
+  "uid":""}
+  },
+  {"firebaseKey_id":10,
+  "id":{"firebaseKey":10,"title":"term 2","techLanguage":"Python","definition":"Used as",
+  "time":"15.3.2024",
+  "uid":""}
+  }
+]
