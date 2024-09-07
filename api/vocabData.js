@@ -12,13 +12,13 @@ const getVocab = () => new Promise((resolve, reject) => {
     },
   })
     .then((response) => response.json())
-    .then((data) {
+    .then((data) => {
       if (data) {
         resolve(Object.values(data));
-  } else {
-    resolve([]);
-  }
-  })
+      } else {
+        resolve([]);
+      }
+    })
     .catch(reject);
 });
 
