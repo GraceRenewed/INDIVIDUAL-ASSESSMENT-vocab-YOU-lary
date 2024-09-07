@@ -1,5 +1,5 @@
 import { signOut } from '../../utils/auth';
-import { getVocab } from '../../api/vocabData';
+import getVocab from '../../api/vocabData';
 import { showVocab } from '../../pages/vocab';
 // navigation events
 const navigationEvents = () => {

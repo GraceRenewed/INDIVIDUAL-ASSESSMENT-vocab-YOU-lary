@@ -4,7 +4,7 @@ import domBuilder from '../components/shared/domBuilder';
 // import domEvents from '../events/domEvents';
 // import formEvents from '../events/formEvents';
 // import navigationEvents from '../events/navigationEvents';
-import { getVocab } from '../api/vocabData';
+import getVocab from '../api/vocabData';
 import { showVocab } from '../pages/vocab';
 
 const startApp = () => {
