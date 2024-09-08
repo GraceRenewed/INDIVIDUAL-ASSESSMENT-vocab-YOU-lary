@@ -1,10 +1,32 @@
-[{"title":"term 1","techLanguage":"Python","definition":"Keyword","time":"30.12.2023","uid":""},
-{"title":"term 1","techLanguage":"Python","definition":"Keyword","time":"26.12.2023","uid":""},
-{"title":"term 4","techLanguage":"Python","definition":"Used as","time":"6.10.2023","uid":""},
-{"title":"term 2","techLanguage":"JavaScript","definition":"Keyword","time":"19.3.2024","uid":""},
-{"title":"term 4","techLanguage":"Java","definition":"Example","time":"20.11.2023","uid":""},
-{"title":"term 1","techLanguage":"JavaScript","definition":"Example","time":"4.8.2024","uid":""},
-{"title":"term 4","techLanguage":"JavaScript","definition":"Keyword","time":"12.1.2024","uid":""},
-{"title":"term 2","techLanguage":"Python","definition":"Example","time":"16.6.2024","uid":""},
-{"title":"term 2","techLanguage":"Python","definition":"Defined as","time":"30.1.2024","uid":""},
-{"title":"term 1","techLanguage":"JavaScript","definition":"Keyword","time":"21.2.2024","uid":""}]
+{
+  "-O6EJtL2emyl7mYvumSe":{
+    "title":"term 4","firebaseKey":"-O6EJtL2emyl7mYvumS","techLanguage":"Python","definition":"Keyword","time":"27.10.2023",
+    "uid":""},
+  "-O6EJtL3m9nF5iOA3yjL":{
+    "title":"term 4","firebaseKey":"-O6EJtL3m9nF5iOA3yjL","techLanguage":"JavaScript","definition":"Example","time":"18.11.2023",
+    "uid":""},
+  "-O6EJtL3m9nF5iOA3yjM":{
+    "title":"term 1","firebaseKey":"-O6EJtL3m9nF5iOA3yjM","techLanguage":"Java","definition":"Used as","time":"25.8.2024",
+    "uid":""},
+  "-O6EJtL4alHs-Iq8AiZP":{
+    "title":"term 4","firebaseKey":"-O6EJtL4alHs-Iq8AiZP","techLanguage":"Python","definition":"Example","time":"7.1.2024",
+    "uid":""},
+  "-O6EJtL5RDLjPcHVX5-3":{
+    "title":"term 2","firebaseKey":"-O6EJtL5RDLjPcHVX5-3","techLanguage":"JavaScript","definition":"Example","time":"25.6.2024",
+    "uid":""},
+  "-O6EJtL5RDLjPcHVX5-4":{
+    "title":"term 4","firebaseKey":"-O6EJtL5RDLjPcHVX5-4","techLanguage":"Java","definition":"Keyword","time":"8.5.2024",
+    "uid":""},
+  "-O6EJtL6g62T0U234MXH":{
+    "title":"term 3","firebaseKey":"-O6EJtL6g62T0U234MXH","techLanguage":"Java","definition":"Used as","time":"24.2.2024",
+    "uid":""},
+  "-O6EJtL6g62T0U234MXI":{
+    "title":"term 2","firebaseKey":"-O6EJtL6g62T0U234MXI","techLanguage":"Python","definition":"Example","time":"25.5.2024",
+    "uid":""},
+  "-O6EJtL7mbIiKEj9kYvf":{
+    "title":"term 1","firebaseKey":"-O6EJtL7mbIiKEj9kYvf","techLanguage":"Java","definition":"Keyword","time":"31.8.2024",
+    "uid":""},
+  "-O6EJtL8g43-CHIhcGmM":{
+    "title":"term 4","firebaseKey":"-O6EJtL8g43-CHIhcGmM","techLanguage":"Java","definition":"Used as","time":"1.6.2024",
+    "uid":""}
+  }
