@@ -3,12 +3,12 @@ import getVocab from '../../api/vocabData';
 import { showVocab } from '../../pages/vocab';
 // navigation events
 const navigationEvents = () => {
-  // LOGOUT BUTTON
+// LOGOUT BUTTON
   document.querySelector('#logout-button')
     .addEventListener('click', signOut);
 
   // ALL VOCAB CARDS
-  document.querySelector('#aa-vocab').addEventListener('click', () => {
+  document.querySelector('#all-vocab').addEventListener('click', () => {
     getVocab().then(showVocab);
   });
 };
