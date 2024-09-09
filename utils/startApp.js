@@ -9,9 +9,9 @@ import getVocab from '../api/vocabData';
 import { showVocab } from '../pages/vocab';
 
 const startApp = () => {
+  loginButton();
   domBuilder(); // BUILD THE DOM
   domEvents(); // ADD THE EVENT LISTENTERS TO THE DOM
-  loginButton();
   // formEvents(); // ADD FORM EVENT LISTENTERS TO THE DOM
   navBar(); // DYNAMICALLY ADD THE NAV
   logoutButton(); // ADD THE LOGOUT BUTTON COMPONENT

@@ -5,7 +5,7 @@ import '../styles/main.scss';
 
 const init = () => {
   document.querySelector('#app').innerHTML = `
-    <h1>Welcome to Your Vocabulary!</h1>v
+    <h1>Welcome to Your Vocabulary!</h1>vcd
     <h2>These are font awesome icons:</h2>
     <i class="fas fa-user fa-4x">
     </i>
