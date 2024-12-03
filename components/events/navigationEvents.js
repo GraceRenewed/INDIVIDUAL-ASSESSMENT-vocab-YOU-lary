@@ -4,11 +4,11 @@ import { showVocab } from '../../pages/vocab';
 // navigation events
 const navigationEvents = () => {
 // LOGOUT BUTTON
-  document.querySelector('#logout-button')
+  document.querySelector('#login-form-container')
     .addEventListener('click', signOut);
 
   // ALL VOCAB CARDS
-  document.querySelector('#all-vocab').addEventListener('click', () => {
+  document.querySelector('#all-cards').addEventListener('click', () => {
     getVocab().then(showVocab);
   });
 };
